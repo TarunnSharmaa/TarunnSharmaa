@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-Experienced software engineer skilled in Python (Flask/Django), PostgreSQL, Redis, RabbitMQ, and Celery. Specializes in high-performance data visualization tools and complex software integration, with a proven track record of driving innovation in fast-paced environments.
+Experienced software engineer skilled in Python (Flask/Django), PostgreSQL, Redis, RabbitMQ, and Celery. It specializes in high-performance data visualization tools and complex software integration and has a proven track record of driving innovation in fast-paced environments.
 
 * 🌍  I'm based in Hyderabad, INDIA
 * ✉️  You can contact me at [09tarunsharma3@gmail.com](mailto:09tarunsharma3@gmail.com)
