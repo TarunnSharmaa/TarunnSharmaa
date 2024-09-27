@@ -7,13 +7,14 @@ Software Developer
 Experienced software engineer skilled in Python (Flask/Django), PostgreSQL, Redis, RabbitMQ, and Celery. It specializes in high-performance data visualization tools and complex software integration and has a proven track record of driving innovation in fast-paced environments.
 
 * 🌍  I'm based in Hyderabad, INDIA
-* ✉️  You can contact me at [09tarunsharma3@gmail.com](mailto:09tarunsharma3@gmail.com)
+* 🔗  visit My [Portfolio Website](https://fantasy-chickadee-224.notion.site/Hello-I-am-Tarun-Sharma-10eabf5205118025b120eca90c689174)
+* ✉️   You can contact me at [09tarunsharma3@gmail.com](mailto:09tarunsharma3@gmail.com)
 * 🚀  I'm currently working on [Automation Through Python](http://academy.zerotomastery.io/courses/automation-bootcamp/)
 * 🧠  I'm learning Prompt Engineering
 
 <a href="https://www.github.com/TarunnSharmaa" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/TarunnSharmaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/TarunSharm18755" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/TarunSharm18755?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/Tanu5210?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
